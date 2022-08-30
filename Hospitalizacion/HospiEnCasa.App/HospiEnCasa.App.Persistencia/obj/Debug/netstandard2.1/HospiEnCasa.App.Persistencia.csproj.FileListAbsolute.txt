@@ -1,0 +1,12 @@
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.deps.json
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csprojAssemblyReference.cache
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\hospiencasa.app.persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CopyComplete

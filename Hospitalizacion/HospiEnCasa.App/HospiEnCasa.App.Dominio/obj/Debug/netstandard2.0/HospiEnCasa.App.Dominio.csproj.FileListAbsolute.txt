@@ -1,0 +1,9 @@
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.deps.json
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+D:\MISION TIC 2022\CICLO 3\Grupo 49\Hospitalizacion\hospiencasa.app\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
